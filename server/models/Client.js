@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 mongoose.connect(
-  `mongodb+srv://Yogesh:Yogesh%40mongo1@cluster0.vnzn2j6.mongodb.net/assessmentData`
+  `Your connection string`
 );
 
 const ClientSchema = mongoose.Schema({
